@@ -136,9 +136,9 @@ I'm especially interested in working on ambitious products around **Solana, cryp
 
 If you're building something interesting, there's a good chance I'd like to hear about it.
 
-**X:** [@YOUR_HANDLE](https://x.com/YOUR_HANDLE)
-**Portfolio:** [YOUR_PORTFOLIO](https://YOUR_PORTFOLIO.com)
-**Email:** YOUR_EMAIL
+**X:** [@YOUR_HANDLE](https://x.com/dexterrbuilds)
+**Portfolio:** [YOUR_PORTFOLIO](https://dexterrbuilds.netlify.app)
+**Email:** dexterrbuilds@gmail.com
 
 ---
 
